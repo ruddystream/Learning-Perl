@@ -17,3 +17,8 @@ nytprof.out
 /pm_to_blib
 *.o
 *.bs
+
+# stuff to ignore
+*.swp
+*.swo
+test.pl
