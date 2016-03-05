@@ -15,7 +15,7 @@ sub total {
 }
 
 sub average {
-	my $avg = total( @_ ) / $#_;
+	my $avg = total( @_ ) / ( $#_ + 1 );
 	return $avg;
 }
 
@@ -44,5 +44,12 @@ print( "The values of \@numlist that are above average are: " );
 for ( @numlist_above_average ) {
 	print ( "$_ " );
 }
-print( "\n" );
+print( "\n\n" );
 
+print( "Now, the test program.\n" );
+my @fred = above_average(1..10);
+print "\@fred is @fred\n";
+print "(Should be 6 7 8 9 10)\n";
+my @barney = above_average(100, 1..10);
+print "\@barney is @barney\n";
+print "(Should be just 100)\n";
