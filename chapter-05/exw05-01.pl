@@ -24,13 +24,12 @@ my $file;
 
 foreach $file ( @ARGV ) {
 
-	if ( ! open FILETOOUTPUT, "$file" ) {
-		print "couldn't open $file!"
+	if ( ! open FILETOOUTPUT, "<", "$file" ) {
+		print "couldn't open $file!";
 	} else {
-		print "$file:\n";
 		while ( <FILETOOUTPUT> ) {
 			chomp;
-			print "  $_\n";
+			print "$file: $_\n";
 		}
 
 	}
