@@ -1,12 +1,12 @@
 #!/usr/bin/perl
 
 ###
-# Chapter 05 Workbook Exercise 01
+# Chapter 05 Workbook Exercise 02
 # Write a program to read lines from all of the files on the 
 # command line and print out each line prefaced with its filename.
 #
 # usage:
-#   exw05-01.pl input1 input2 input3 -
+#   exw05-02.pl input1 input2 input3 -
 #
 # output:
 #   input1: asdf
