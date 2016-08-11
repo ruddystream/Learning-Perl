@@ -1,14 +1,19 @@
 #!/usr/bin/perl
 
 ###
-# Chapter 05 Workbook Exercise XX
-# Exercise description.
+# Chapter 05 Workbook Exercise 04
+# Write a program that prompts the user for a whole number 
+# then prints that number in binary, octal, decimal, and 
+# hexadecimal notation. description.
 #
 # usage:
-#   exw05-01.pl 
+#   exw05-04.pl 
 #
 # output:
-#   ...
+#   BINARY:  xx
+#   OCTAL:   xx
+#   DECIMAL: xx
+#   HEX:     xx
 #
 
 use strict;
