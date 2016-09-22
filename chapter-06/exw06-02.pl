@@ -32,11 +32,7 @@ print "enter a Flintstone's name: ";
 
 chomp ( $input = <STDIN> );
 
-if ( ! defined $flintstones_birthdays{$input} ) {
-	$output = "not known";
-} else {
-	$output = $flintstones_birthdays{$input};
-}
+$output = $flintstones_birthdays{$input};
 
 print "$input, $output.\n";
 
