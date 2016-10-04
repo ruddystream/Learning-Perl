@@ -1,8 +1,9 @@
 #!/usr/bin/perl
 
 ###
-# Chapter 06 Exercise XX
-# Exercise description.
+# Chapter 06 Exercise 01
+# Write a program that will ask the user for a given name and report the 
+# corresponding family name.
 #
 # usage:
 #   exw06-01.pl 
