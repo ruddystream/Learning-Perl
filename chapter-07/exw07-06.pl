@@ -7,7 +7,7 @@
 # string.
 #
 # usage:
-#   exw07-04.pl 
+#   exw07-06.pl 
 #
 # output:
 #   ...

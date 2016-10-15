@@ -5,7 +5,7 @@
 # Make a program that prints each line of its input that mentions fred.
 #
 # usage:
-#   exw07-01.pl
+#   ex07-01.pl
 #
 # output:
 #   ...

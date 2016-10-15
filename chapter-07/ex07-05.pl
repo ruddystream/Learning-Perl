@@ -6,7 +6,7 @@
 # nonwhitespace characters next to each other.
 #
 # usage:
-#   exw07-01.pl
+#   ex07-05.pl
 #
 # output:
 #   ...

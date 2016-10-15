@@ -6,7 +6,7 @@
 # but not ALL capitalized.
 #
 # usage:
-#   exw07-01.pl
+#   ex07-04.pl
 #
 # output:
 #   ...

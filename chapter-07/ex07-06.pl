@@ -5,7 +5,7 @@
 # Write a program that prints out any input line that mentions both wilma and fred.
 #
 # usage:
-#   exw07-06.pl
+#   ex07-06.pl
 #
 # output:
 #   ...

@@ -7,7 +7,7 @@
 # each of those letters.
 #
 # usage:
-#   exw07-02.pl 
+#   exw07-03.pl 
 #
 # output:
 #   ...

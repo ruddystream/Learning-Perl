@@ -5,7 +5,7 @@
 # Modify the previous program to allow Fred to match as well.
 #
 # usage:
-#   exw07-01.pl
+#   ex07-02.pl
 #
 # output:
 #   ...

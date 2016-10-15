@@ -6,7 +6,7 @@
 # period (.), ignoring other lines of input.
 #
 # usage:
-#   exw07-01.pl
+#   ex07-03.pl
 #
 # output:
 #   ...
