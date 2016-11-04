@@ -1,4 +1,7 @@
 #!/usr/bin/perl
+#
+## I, Ruddy Stream, commit this code to the public domain, and claim no copyright on it.
+#
 
 ###
 # Chapter 09 Exercise 3
