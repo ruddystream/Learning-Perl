@@ -30,9 +30,9 @@ if ( ! defined $datafile ) {
 if ( ! open $infile, "<", "$datafile" ) {
 	die "Please create and populate $datafile.\n";
 } else {
-	$datafileout = "$datafile.out";
+	$datafileout = "$datafile.ex2.out";
 	if ( ! open $outfile, ">", "$datafileout" ) {
-		die "Couldn't open $datafilecopy for writing, for some reason.\n";
+		die "Couldn't open $datafileout for writing, for some reason.\n";
 	}
 	while (<$infile>) {							# take one input line at a time
 		chomp;
