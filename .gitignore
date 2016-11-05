@@ -23,8 +23,11 @@ nytprof.out
 *.swo
 test.pl
 .DS_Store
+t
+tw
 
 # Garbage files that I use for output and such
 *.out
 *.log
 *.conv
+*.bak
