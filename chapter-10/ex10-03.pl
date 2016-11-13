@@ -2,11 +2,12 @@
 
 ###
 # Chapter 10 Exercise 03
+# ----------------------
 # Modify the program from Exercise 3 in Chapter 6 (the environment lister) 
 # to print (undefined value) for environment variables without a value.
 #
 # usage:
-#   exw06-03.pl 
+#   exw10-03.pl 
 #
 
 use strict;
