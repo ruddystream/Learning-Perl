@@ -3,7 +3,8 @@
 ###
 # Chapter 10 Workbook Exercise 01
 # -------------------------------
-# Exercise description.
+# Write a program that reads in lines of input and prints them unless they 
+# contain the words “ruby” or “python”.
 #
 # usage:
 #   exw10-01.pl 
