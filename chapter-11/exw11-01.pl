@@ -15,7 +15,6 @@ use strict;
 use warnings;
 
 use File::Spec;
-use File::Basename qw( basename );
 
 defined $ARGV[0] ? my $path  = $ARGV[0] : die "Need a path.\n";
 my $directory = "/etc/";
