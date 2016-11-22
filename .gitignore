@@ -32,3 +32,4 @@ tw
 *.conv
 *.bak
 *.html
+*.sqlite3
