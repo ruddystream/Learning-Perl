@@ -20,3 +20,5 @@ foreach ( sort readdir $dh ) {
 		print "$_ -> $actual\n";
 	}
 }
+
+closedir $dh;
