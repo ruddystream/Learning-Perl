@@ -25,11 +25,3 @@ while ( glob "* .*" ) {
 	printf " %-25s%10.0f  %2s %2s %2s\n", $name, $size, $r, $w, $x; 
 }
 
-#if ( $count == 1 ) {
-#	$verbage = "is";
-#} else {
-#	$verbage = "are";
-#}
-#
-#print "There $verbage $count files in this directory\n"; 
-#printf "The total size of all the files is %.2f kb.\n", $size;

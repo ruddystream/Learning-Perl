@@ -32,11 +32,3 @@ while ( readdir( $dh ) ) {
 
 closedir $dh;
 
-#if ( $count == 1 ) {
-#	$verbage = "is";
-#} else {
-#	$verbage = "are";
-#}
-#
-#print "There $verbage $count files in this directory\n"; 
-#printf "The total size of all the files is %.2f kb.\n", $size;
