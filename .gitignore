@@ -34,3 +34,5 @@ tw
 *.html
 *.sqlite3
 *.xml
+*.dat
+foo/
