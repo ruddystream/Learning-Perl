@@ -28,6 +28,7 @@ tw
 
 # Garbage files that I use for output and such
 *.out
+*.err
 *.log
 *.conv
 *.bak
